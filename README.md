@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## LeetCode for fun! ([profile](https://leetcode.com/itsysho))
+[![YS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=itsysho)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **Itsysho/Itsysho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
